@@ -4,7 +4,7 @@
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 :root {
-    font-size: calc(min(100vw,1400px) / 87.5);
+    font-size: calc(min(100vw,1400px) / 75);
     --primary: #3f8cff;
     --bg-default: #f4f9fd
 }
